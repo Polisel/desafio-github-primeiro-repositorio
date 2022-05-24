@@ -1,0 +1,30 @@
+GUI --> Graphic unit interface
+
+CLI --> command line interface
+
+****comandos****
+
+dir --> diretory
+ls --> list (linux)
+cd --> change diretory
+
+"cd /" vai para a pasta raiz do drive, pelo que entendi
+"cd .." volta pra pasta anteior
+
+cls --> clear screen (win)
+clear --> clear screen (linux)
+
+"ctrl+L" mesma coisa que limpar tela, apenas para linux!
+
+mkdir --> make diretory
+
+*apertar tab completa a palavra com o que já digitou. Se apertar de novo vai pra próxima opção com o que já foi digitado.
+
+"del (nome da pasta)" deleta tudo dentro da pasta, mas não a pasta.
+
+"rmdir (nome da pasta)" deleta a pasta de tudo dentro (vem de remove directory)
+
+*Se a pasta não estiver vazia, usar "rmdir (nome da pasta) /S /Q" para forçar apagar tudo, parece que chama flexer.
+
+"ls -a" força a listar os arquivos e pastas ocultos.
+
